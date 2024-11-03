@@ -81,6 +81,7 @@ return {
                     italic = false,
                 },
             })
+            ColorMyPencils();
         end
     },
 }
